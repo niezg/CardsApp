@@ -1,0 +1,10 @@
+CJ, H5, tie
+H5, H4, win
+C8, H6, tie
+S8, C10, loss
+H8, C10, tie
+DA, HQ, win
+SJ, C8, loss
+H4, CQ, tie
+C6, DA, loss
+S10, DQ, tie

@@ -1,0 +1,7 @@
+C:\Users\niezg\source\repos\CardsAppBartoszNiezgodzki\CardsApp\obj\Debug\CardsApp.csprojAssemblyReference.cache
+C:\Users\niezg\source\repos\CardsAppBartoszNiezgodzki\CardsApp\obj\Debug\CardsApp.csproj.CoreCompileInputs.cache
+C:\Users\niezg\source\repos\CardsAppBartoszNiezgodzki\CardsApp\bin\Debug\CardsApp.exe.config
+C:\Users\niezg\source\repos\CardsAppBartoszNiezgodzki\CardsApp\bin\Debug\CardsApp.exe
+C:\Users\niezg\source\repos\CardsAppBartoszNiezgodzki\CardsApp\bin\Debug\CardsApp.pdb
+C:\Users\niezg\source\repos\CardsAppBartoszNiezgodzki\CardsApp\obj\Debug\CardsApp.exe
+C:\Users\niezg\source\repos\CardsAppBartoszNiezgodzki\CardsApp\obj\Debug\CardsApp.pdb
